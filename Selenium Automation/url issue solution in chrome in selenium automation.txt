@@ -1,0 +1,6 @@
+		ChromeOptions co=new ChromeOptions();         // url not open issues solution line-1
+		co.addArguments("--remote-allow-origins=*");    // url not open issues solution line-2
+		
+		WebDriverManager.chromedriver().setup();
+		
+		WebDriver driver=new ChromeDriver(co);         // url not open issues solution line-3
