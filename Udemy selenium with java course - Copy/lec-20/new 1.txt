@@ -1,0 +1,16 @@
+then click on myOKR icon or teamOKR icon
+Employee name should be visible when user hover on profile icon
+
+
+click on status dropdown.
+Filter by status, the list of status should be displayed i.e, On Track, Off Track, At Risk, Completed, Not Started
+
+
+click on type dropdown. Select Individual OKR's from type.
+OKR with no alignments should be displayed.
+
+click on type dropdown, Select Aligned OKRs from Type.
+OKR with alignments(From or To) should be displayed.
+
+
+ACT-336PawanACT-335VinayACT-334PawanACT-333VinayACT-332PawanACT-331GreeshmaACT-330GreeshmaACT-329GreeshmaACT-328GreeshmaACT-327GreeshmaACT-326GreeshmaACT-324PawanACT-323PawanACT-322PawanACT-321GreeshmaACT-320GreeshmaACT-319PawanACT-318PawanACT-317GreeshmaACT-316PawanACT-315GreeshmaACT-314GreeshmaACT-313GreeshmaACT-312GreeshmaACT-311GreeshmaACT-310VinayACT-309PawanACT-308PawanACT-307PawanACT-306Greeshma
